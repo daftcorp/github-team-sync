@@ -14,3 +14,5 @@
 
 - support for loading team / user config from various file formats like CSV
 - CLI niceties like dry-run option, for example
+- support for creating/managing teams in addition to just adding / removing users
+- plenty more..
