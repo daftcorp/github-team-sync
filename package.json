@@ -1,0 +1,11 @@
+{
+  "name": "github-team-sync",
+  "version": "0.0.1",
+  "main": "gh-team-sync.js",
+  "author": "Jeff Tougas <jeff@daft.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "github": "~0.1.15",
+    "lodash": "~2.4.1"
+  }
+}
