@@ -16,3 +16,11 @@
 - CLI niceties like dry-run option, for example
 - support for creating/managing teams in addition to just adding / removing users
 - plenty more..
+
+## Contributing
+
+Pull requests are welcome.
+
+## CHANGELOG
+
+- v0.0.1 - 4.7.14: initial release - basic adding / deleting of users to hardcoded teams and org
